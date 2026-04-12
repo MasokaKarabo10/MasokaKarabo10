@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there! My name is Karabo Masoka 👋
 
 <!--
-**MasokaKarabo10/MasokaKarabo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Belgium Campus iTversity 
 
-Here are some ideas to get you started:
+🌱 Passionate about AI, Software Testing, Web Development and Software Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💼 Seeking internship/graduate opportunities in software development and Web Development
+
+🚀 Skills
+
+Programming: C#, HTML, CSS JavaScript, SQL (MSSQL)
+
+Tools: GitHub
+
+📂 Projects
+Web Programming Mock Portfolio creation - 
+High School Database - 
+Healthcare Management System - 
+Software Testing for Healthcare Management system - 
+Superhero Management System using Windows Forms - 
+Smart Fitness Tracker Web App - 
+
+📄 CV
+Download my CV - 
 -->
