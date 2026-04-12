@@ -13,12 +13,12 @@ Programming: C#, HTML, CSS JavaScript, SQL (MSSQL)
 Tools: GitHub
 
 📂 Projects
-Web Programming Mock Portfolio creation - 
-High School Database - 
-Healthcare Management System - 
-Software Testing for Healthcare Management system - 
-Superhero Management System using Windows Forms - 
-Smart Fitness Tracker Web App - 
+[Web Programming Mock Portfolio creation](https://github.com/MasokaKarabo10/Website-Portfolio-Creation)
+[High School Database](https://github.com/MasokaKarabo10/High-School-Database)
+[Healthcare Management System](https://github.com/MasokaKarabo10/Healthcare-Management-System) 
+[Software Testing for Healthcare Management system](https://github.com/MasokaKarabo10/Healthcare-Management-system-Testing) 
+[Superhero Management System using Windows Forms](https://github.com/MasokaKarabo10/Website-Portfolio-Creation)
+[Smart Fitness Tracker Web App](https://github.com/MasokaKarabo10/Smart-Fitness-Tracker-Web-App)
 
 📄 CV
 Download my CV - 
