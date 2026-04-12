@@ -21,7 +21,7 @@ Tools: GitHub
 [Smart Fitness Tracker Web App](https://github.com/MasokaKarabo10/Smart-Fitness-Tracker-Web-App)
 
 📄 CV
-Download my CV - 
+[Download my CV](https://github.com/MasokaKarabo10/Karabo-Masoka-CV/blob/main/Karabo%20Masoka's%20CV.pdf)
 <!--
 
 -->
