@@ -1,6 +1,5 @@
 ## Hi there! My name is Karabo Masoka 👋
 
-<!--
 🎓 Software Engineering Student at Belgium Campus iTversity 
 
 🌱 Passionate about AI, Software Testing, Web Development and Software Development 
@@ -23,4 +22,6 @@ Smart Fitness Tracker Web App -
 
 📄 CV
 Download my CV - 
+<!--
+
 -->
