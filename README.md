@@ -17,7 +17,7 @@ Tools: GitHub
 [High School Database](https://github.com/MasokaKarabo10/High-School-Database)
 [Healthcare Management System](https://github.com/MasokaKarabo10/Healthcare-Management-System) 
 [Software Testing for Healthcare Management system](https://github.com/MasokaKarabo10/Healthcare-Management-system-Testing) 
-[Superhero Management System using Windows Forms](https://github.com/MasokaKarabo10/Website-Portfolio-Creation)
+[Superhero Management System using Windows Forms](https://github.com/MasokaKarabo10/PRG282_SuperHero_System)
 [Smart Fitness Tracker Web App](https://github.com/MasokaKarabo10/Smart-Fitness-Tracker-Web-App)
 
 📄 CV
