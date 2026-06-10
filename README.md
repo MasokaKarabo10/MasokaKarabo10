@@ -33,8 +33,9 @@ Concepts: OOP | MVC | Unit Testing | Responsive Web Design | Database Design (ER
 📊 Project Manager — CampusIQ Academic Risk Intelligence Platform (2026)
 🎓 71.6% academic average — Belgium Campus iTversity
 🏅 2× Academic Scroll Achievements · Top 10 Student (5 consecutive years)
+
 📄 CV
-[Download my CV](https://github.com/MasokaKarabo10/Karabo-Masoka-CV/blob/main/Karabo%20Masoka's%20CV.pdf)
+[Download my CV](https://github.com/MasokaKarabo10/Karabo-Masoka-CV/blob/main/Karabo_Masoka_CV_2026.pdf)
 <!--
 
 -->
