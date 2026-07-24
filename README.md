@@ -9,6 +9,8 @@ Frameworks & Tools: EJS | Node.js | .NET / WinForms | Power BI | Power Apps | Gi
 Concepts: OOP | MVC | Unit Testing | Responsive Web Design | Database Design (ERDs) | Agile / Scrum Version Control
 
 🚀 Projects
+🎓 [Edu-Edge Academics Tutoring website](https://github.com/MasokaKarabo10/edu-edge-academics) I created my own tutoring website where parents and students can book lessons with a tutor. I used Node.js · EJS · CSS · GitLed full frontend build. EJS templating, responsive CSS. Click the following link to view the website: [Edu-Edge Academics website](https://edu-edge-academics.onrender.com/).
+
 🏫 [CampusIQ — Academic Risk Intelligence Platform](https://github.com/CampusIQ-Team/CampusIQ) Power BI · SQL · Power AppsFull-stack academic risk scoring platform. Served as Project Manager — coordinated team of 8, deployed Power BI dashboards, resolved production integration issues. (INL381 module, 2026)
 
 🎟 [Smart Event Management & Ticketing Platform](https://github.com/LiamAxel3115/WPR381-ProjectGroupX) Node.js · EJS · CSS · GitLed full frontend build. EJS templating, responsive CSS, Git branch management and merge conflict resolution. (WPR381 module, 2026)
@@ -29,9 +31,9 @@ Concepts: OOP | MVC | Unit Testing | Responsive Web Design | Database Design (ER
 
 🏆 Highlights
 
-🌍 Hack the Waste 2026 — International 24-hour hackathon, City of Leuven, Belgium. Cross-disciplinary team across 4 countries. Certificate 4a99de4f
+🌍 Hack the Waste 2026 — International 24-hour hackathon, City of Leuven, Belgium. Cross-disciplinary team across 4 countries. [Hack The Waste Certificate](https://htw26.hacktribe.co/cert_pdf/4a99de4f-04a6-4442-ab48-aa09b717e891)
 📊 Project Manager — CampusIQ Academic Risk Intelligence Platform (2026)
-🎓 71.6% academic average — Belgium Campus iTversity
+🎓 72% academic average — Belgium Campus iTversity
 🏅 2× Academic Scroll Achievements · Top 10 Student (5 consecutive years)
 
 📄 CV
