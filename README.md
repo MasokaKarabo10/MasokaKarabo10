@@ -14,6 +14,8 @@ Concepts: OOP | MVC | Unit Testing | Responsive Web Design | Database Design (ER
 
 🏫 [CampusIQ — Academic Risk Intelligence Platform](https://github.com/CampusIQ-Team/CampusIQ) Power BI · SQL · Power AppsFull-stack academic risk scoring platform. Served as Project Manager — coordinated team of 8, deployed Power BI dashboards, resolved production integration issues. (INL381 module, 2026)
 
+🧹 [University Cleaning Inventory & Issuance System](https://github.com/MasokaKarabo10/University-Cleaning-Inventory-Issuance-System) Java · Swing (NetBeans GUI Builder) · JDBC · PostgreSQL. Java Swing desktop application for managing a university's cleaning-supply inventory: materials, suppliers, cleaners, and stock issuance. Built as a 5-person group project. Served as a backend developer with a data-layer and reliability focus. (PRG381 module, 2026)
+
 🎟 [Smart Event Management & Ticketing Platform](https://github.com/LiamAxel3115/WPR381-ProjectGroupX) Node.js · EJS · CSS · GitLed full frontend build. EJS templating, responsive CSS, Git branch management and merge conflict resolution. (WPR381 module, 2026)
 
 🌿 [Green Guardian — Civic Cleanliness AI App](https://github.com/MasokaKarabo10/Green-Guardian-Leuven) HTML · CSS · JavaScript · AI APIBuilt in 24 hours at Hack the Waste 2026 for the City of Leuven, Belgium. GPS heatmap, AI waste scanner, photo evidence upload, admin panel. International cross-disciplinary team. 🏆 Certificate ID: 4a99de4f
