@@ -10,6 +10,23 @@ Concepts: OOP | MVC | Unit Testing | Responsive Web Design | Database Design (ER
 
 🚀 Projects
 
+🚗 [DAIAS: Drone-Assisted Accident Scene Documentation](https://github.com/RefilweSegele/PRJ381_Road_Accident_Documentation)
+ React · Node.js · Express · PostgreSQL · React Three Fiber · JWT · PRJ381 (2026) 
+Drone imagery of a road accident becomes a 3D scene that reviewers can measure and report on. Investigators create cases and upload images, GCPs and flight logs. Processing builds the model and detects damage. Reviewers open the 3D viewer, measure, and generate reports.
+**What I built**
+- Reviewer 3D viewer with two-point measurement and clear states for cases not yet ready.
+- Reviewer search and detail API, returning only processed or reviewed cases.
+- JWT authentication and role-based access control on reviewer routes.
+- Intake flow that saves each case and its vehicles in one database transaction.
+- Reviewed teammates' pull requests and resolved merge conflicts on main.
+**Demo:** [Walkthrough video](https://belgiumcampusacza-my.sharepoint.com/personal/603037_student_belgiumcampus_ac_za/_layouts/15/stream.aspx?id=%2Fpersonal%2F603037_student_belgiumcampus_ac_za%2FDocuments%2FProject+Demo.mp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.63ab0c8a-ce2e-472b-83eb-ed5274d99ad1)
+
+ 🏘️ [CivicConnect — Service Request Platform for Estates](https://github.com/jk29364/CivicConnect-SEN381) **🚧 In development.** A full-stack platform for residents to log estate service requests and for staff to track and update them. Built as a team of three for SEN381 (Software Engineering 381), using a real client scenario for Wonderpark Estates. Node.js · Express · PostgreSQL (Supabase) · React · Tailwind CSS · JWT · Recharts · GitHub Actions
+
+- **Individually:** led requirements engineering and traceability (requirements, acceptance criteria, RTM), defined the architectural significant requirements and the layered-monolith decision, and designed and implemented the Factory pattern for request creation with category-specific validation and tests.
+- **As a group:** a backend with status transitions, optimistic concurrency and an audit history written in the same transaction; role-based access control; resident and staff interfaces with dashboard charts; a GitHub Actions pipeline; and a branch-and-review workflow with two approvals per change.
+- **Status:** working locally with a tested backend. Staging, the final frontend integration and some requirements (notifications, assignment, comments) are still in progress. 
+
 🎓 [Edu-Edge Academics Tutoring website](https://github.com/MasokaKarabo10/edu-edge-academics) I created my own tutoring website where parents and students can book lessons with a tutor. I used Node.js · EJS · CSS · GitLed full frontend build. EJS templating, responsive CSS. Click the following link to view the website: [Edu-Edge Academics website](https://edu-edge-academics.onrender.com/).
 
 🏫 [CampusIQ — Academic Risk Intelligence Platform](https://github.com/CampusIQ-Team/CampusIQ) Power BI · SQL · Power AppsFull-stack academic risk scoring platform. Served as Project Manager — coordinated team of 8, deployed Power BI dashboards, resolved production integration issues. (INL381 module, 2026)
@@ -40,7 +57,7 @@ Concepts: OOP | MVC | Unit Testing | Responsive Web Design | Database Design (ER
 🏅 2× Academic Scroll Achievements · Top 10 Student (5 consecutive years)
 
 📄 CV
-[Download my CV](https://github.com/MasokaKarabo10/Karabo-Masoka-CV/blob/main/Karabo_Masoka_CV_2026.pdf)
+[Download my CV](file:///C:/Users/Seven%20C/OneDrive%20-%20belgiumcampus.ac.za/Pictures/Application%20stuff/KARABO_MASOKA_CV_FINAL.pdf)
 <!--
 
 -->
